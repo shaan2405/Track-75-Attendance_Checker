@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Track-75-Attendance_Checker
 
-# Run and deploy your AI Studio app
+An Attendance Checking Website to keep track of 75% attendance requirement for students.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- Student login & authentication
+- Attendance percentage tracking
+- Dashboard view
+- Firebase integration
+- Modern UI using Vite + React + TypeScript
 
-View your app in AI Studio: https://ai.studio/apps/b5f8158a-0b52-4b80-9a71-c920e42f4bc4
+## 🛠️ Installation
 
-## Run Locally
+1. Clone the repository:
+   git clone https://github.com/shaan2405/Track-75-Attendance_Checker.git
 
-**Prerequisites:**  Node.js
+2. Install dependencies:
+   npm install
 
+3. Run the project:
+   npm run dev
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📌 Tech Stack
+- React
+- TypeScript
+- Vite
+- Firebase
